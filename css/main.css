@@ -1,0 +1,123 @@
+/***** GRID *****/
+
+.full-width {
+  width: 1200px;
+  padding: 20px;
+}
+
+.half-width {
+  width: 600px;
+  float: left;
+}
+
+.third-width {
+  width: 360px;
+  float: left;
+  border-top: solid 1px #dedbdc;
+  border-bottom: solid 1px #dedbdc;
+}
+
+/***** HEADER *****/
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+h1 span{
+  color: #77a466;
+}
+
+ul {
+  list-style: none;
+  padding-left: 25px;
+}
+
+nav ul li {
+  display: inline;
+  text-transform: uppercase;
+  font-family: Montserrat, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #77a466;
+  padding-right: 27px;
+}
+
+/***** IMAGE *****/
+
+img {
+  width: 1200px;
+  border-top: solid 3px #77a466;
+}
+
+/***** ABOUT *****/
+
+h2 {
+  color: #77A466;
+  font-family: Montserrat, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+p {
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+}
+
+/***** MENU *****/
+
+h3 {
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+ul li {
+  font-size: 16px;
+  font-family: Montserrat, sans-serif;
+  color: #77A466;
+}
+
+#menu {
+  padding-right: 30px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  height: 175px;
+}
+
+#reviews {
+  padding: 25px;
+  width: 340px;
+  border-left: solid 1px #dedbdc;
+  border-right: solid 1px #dedbdc;
+}
+
+#contact {
+  padding-left: 30px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  height: 175px;
+}
+
+/***** FOOTER *****/
+
+footer {
+  clear: both;
+}
+
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+}
+
+h4 span {
+  color: #77A466;
+  font-family: 'Galada', cursive;
+  text-transform: lowercase;
+  font-weight: normal;
+}
